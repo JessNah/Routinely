@@ -1,6 +1,6 @@
 # Routinely
 
-![Routinely app preview](/assets/images/RoutinelyWithAppPreview.jpg)
+![Routinely app preview](/assets/images/RoutinelyWithAppPreview2.jpg)
 
 
 Routinely is a calendar application that provides recommended schedules that adhere to COVID-19 safety measures, while incentivizing children to stick to a routine.
